@@ -20,7 +20,7 @@ export default function Footer() {
         </a>{" "}
         and{" "}
         <a
-          href="https://weather-app-shecodes-workshop.netlify.app/"
+          href="https://leafy-panda-38ed2d.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
