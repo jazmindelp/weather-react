@@ -12,7 +12,7 @@ export default function Footer() {
         </a>{" "}
         and is{" "}
         <a
-          href="https://github.com/jazmindelp/weather-app"
+          href="https://github.com/jazmindelp/weather-react"
           target="_blank"
           rel="noreferrer"
         >
